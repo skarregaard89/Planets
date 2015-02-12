@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\control2.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SuperJump.cs" Line="17" Column="37" />
+      <File FileName="Assets\Scripts\MeteorSpawn.cs" Line="16" Column="2" />
+      <File FileName="Assets\Scripts\Controls.cs" Line="32" Column="7" />
+      <File FileName="Assets\Scripts\Meteor.cs" Line="23" Column="55" />
+      <File FileName="Assets\Scripts\NextLevelTrigger.cs" Line="24" Column="23" />
+      <File FileName="Assets\Scripts\TriggerL1.cs" Line="6" Column="1" />
+      <File FileName="Assets\Scripts\PullMechanic.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\PortalActiveTrigger.cs" Line="18" Column="29" />
+      <File FileName="Assets\Scripts\control2.cs" Line="18" Column="1" />
+      <File FileName="Assets\Scripts\PullMechanicRed.cs" Line="6" Column="21" />
+      <File FileName="Assets\Scripts\Meteor2.cs" Line="6" Column="4" />
+      <File FileName="Assets\Scripts\Teleport2.cs" Line="23" Column="31" />
+      <File FileName="Assets\Scripts\Teleport.cs" Line="6" Column="1" />
+      <File FileName="Assets\Scripts\NextLevelTrigger2.cs" Line="33" Column="1" />
+      <File FileName="Assets\Scripts\TriggerL3Ladder.cs" Line="20" Column="79" />
+      <File FileName="Assets\Scripts\NextLevelTrigger3.cs" Line="24" Column="23" />
+      <File FileName="Assets\Scripts\ActiveTeleport.cs" Line="18" Column="18" />
+      <File FileName="Assets\Scripts\SpotLight.cs" Line="15" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
